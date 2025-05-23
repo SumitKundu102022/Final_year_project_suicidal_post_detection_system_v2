@@ -1,7 +1,7 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pkl
+# *.pkl
 .env
 *.h5
 
@@ -21,5 +21,5 @@ venv/
 *.idea/
 
 # Tokenizers / Model Files (if large or sensitive)
-tokenizer.pkl
-model.h5
+# tokenizer.pkl
+# model.h5
