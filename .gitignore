@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+.env
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+
+
+# System
+.DS_Store
+*.swp
+
+# VS Code/IDE
+.vscode/
+*.idea/
+
+# Tokenizers / Model Files (if large or sensitive)
+tokenizer.pkl
+model.h5
